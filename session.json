@@ -1,0 +1,155 @@
+          "senderSigningKey": {
+            "public": "Bfz8100FkLQIql7LAUqh14gemQh0f/WJ0UyaQLbJe14u"
+          },
+          "senderMessageKeys": []
+        }
+      ],
+      "status@broadcast::6285761466834::0": [
+        {
+          "senderKeyId": 1918501546,
+          "senderChainKey": {
+            "iteration": 6,
+            "seed": "4cmGfvce28YHgd5k5YH1fyhyN8ipnzR7YsWuw6DFGao="
+          },
+          "senderSigningKey": {
+            "public": "BeeFBtYZRv4oXIFXMJEiyofGclqHAiEJEz+3iOxNK+08"
+          }
+        }
+      ],
+      "status@broadcast::62895406824646::0": [
+        {
+          "senderKeyId": 1553922906,
+          "senderChainKey": {
+            "iteration": 8,
+            "seed": "MGe5Qpea0RJcprYSkDQAo4fi1uN0RrJiKznurXmzvwo="
+          },
+          "senderSigningKey": {
+            "public": "BelsZOTvNBH7WGwACmBsozSyX1xc+J3tHzjx7zz7WvpK"
+          }
+        }
+      ],
+      "120363038936115728@g.us::6285771049936::0": [
+        {
+          "senderKeyId": 184572661,
+          "senderChainKey": {
+            "iteration": 1,
+            "seed": "+GJ4coTIYvsaMyx4tljUqy/9lwyvoPg2OAKk2bAUi7Y="
+          },
+          "senderSigningKey": {
+            "public": "BTcwouPRyw88TwP3IvBZpoM65zKJWEzsnc2goBKSX3NI"
+          }
+        }
+      ],
+      "120363038936115728@g.us::6287777969115::0": [
+        {
+          "senderKeyId": 1107489295,
+          "senderChainKey": {
+            "iteration": 28,
+            "seed": "BMZWtqmmiikFkrQXcKbhNe/n0LDQ3dqf14iJOZMNVtE="
+          },
+          "senderSigningKey": {
+            "public": "BUoerUOpjWX8BD63x0p2XtvnnarebY3BxU/V8EOH2Y1p"
+          }
+        }
+      ],
+      "120363021755225667@g.us::6288211273802::0": [
+        {
+          "senderKeyId": 916409613,
+          "senderChainKey": {
+            "iteration": 56,
+            "seed": "hWLE9/wiNSzPKH8bUdf4VlagiSO/+P0aAReSeiKeYgc="
+          },
+          "senderSigningKey": {
+            "public": "BfgAqjsxJvpAs2VbRsZ0+3lw3yPuGB9Vnp1lKrMvhUp6"
+          },
+          "senderMessageKeys": [
+            {},
+            {}
+          ]
+        },
+        {
+          "senderKeyId": 916409613,
+          "senderChainKey": {
+            "iteration": 54,
+            "seed": "CMwfXvfVYzoL7ax8SESDuPBqaR38YoHS3+2S6VHqmmY="
+          },
+          "senderSigningKey": {
+            "public": "BfgAqjsxJvpAs2VbRsZ0+3lw3yPuGB9Vnp1lKrMvhUp6"
+          },
+          "senderMessageKeys": []
+        }
+      ],
+      "status@broadcast::62881025207596::0": [
+        {
+          "senderKeyId": 1644416313,
+          "senderChainKey": {
+            "iteration": 10,
+            "seed": "OuDWPogoVBptaYq7mQ5Jf3SCXRoZwzXO3AhfMaR897E="
+          },
+          "senderSigningKey": {
+            "public": "BSodAC8kXYNoz19MiYOrydzeKgh+hWqpD66YTBj0hDZ1"
+          }
+        }
+      ],
+      "120363021755225667@g.us::6285314162380::0": [
+        {
+          "senderKeyId": 2060082741,
+          "senderChainKey": {
+            "iteration": 77,
+            "seed": "BTPKigv05SqUZyC69hiO/dDD3sthWY82KHXuX/Swaww="
+          },
+          "senderSigningKey": {
+            "public": "BRf9ca+YFykfTfHEfiP0VetmDeDvG6njNjv6dlUnSONJ"
+          },
+          "senderMessageKeys": []
+        }
+      ],
+      "120363021195571675@g.us::6283101508401::0": [
+        {
+          "senderKeyId": 435555845,
+          "senderChainKey": {
+            "iteration": 20,
+            "seed": "f4plw7wntJDZupz6Ht+lDVcA6pYXrfSdeAYp5WkbpY0="
+          },
+          "senderSigningKey": {
+            "public": "BW4US03mXw1612ozPZwk6bGcqzXyBaYvcLD+PUeNwwBt"
+          }
+        }
+      ],
+      "120363038936115728@g.us::6283149984394::0": [
+        {
+          "senderKeyId": 437841895,
+          "senderChainKey": {
+            "iteration": 1,
+            "seed": "+yZiBsd/7gZ9PkES+ksgzgeNXQn9V5w079mPXZd9kMU="
+          },
+          "senderSigningKey": {
+            "public": "BQgU4zB++bEr85YCOOn0fG5ZPV7ccIVEJn7tgdjLL+5m"
+          }
+        }
+      ],
+      "6285329919502-1604975155@g.us::6288211273802::0": [
+        {
+          "senderKeyId": 1491229582,
+          "senderChainKey": {
+            "iteration": 1,
+            "seed": "ruChH/MCaK+BVEsnl5Z+ouCkX00SYwGZ8eNosFuBsrY="
+          },
+          "senderSigningKey": {
+            "public": "BSQyEI8A4BbnJmaVStgake+rtjQ65LSlnsJeTVcPUcoc"
+          }
+        }
+      ],
+      "120363021195571675@g.us::6283149984394::0": [
+        {
+          "senderKeyId": 1980512256,
+          "senderChainKey": {
+            "iteration": 1,
+            "seed": "KAsmX41ghPo7bQZvHebbpKmSegaPxDeg6/8yS+Jk/6Q="
+          },
+          "senderSigningKey": {
+            "public": "BbVGGbxS8akQ9uq9vg++jnlHkYZQpdUwNpdcDfYiAzRC"
+          }
+        }
+      ]
+    },
